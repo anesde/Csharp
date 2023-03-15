@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SEDC.Class07.Enumerations/1.0.0": {
+        "dependencies": {
+          "SEDC.Class07.Services": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Class07.Enumerations.dll": {}
+        }
+      },
+      "SEDC.Class07.Services/1.0.0": {
+        "runtime": {
+          "SEDC.Class07.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Class07.Enumerations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Class07.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

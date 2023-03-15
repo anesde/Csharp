@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\bin\Debug\net6.0\SEDC.Class07.Exercises.exe
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\bin\Debug\net6.0\SEDC.Class07.Exercises.deps.json
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\bin\Debug\net6.0\SEDC.Class07.Exercises.runtimeconfig.json
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\bin\Debug\net6.0\SEDC.Class07.Exercises.dll
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\bin\Debug\net6.0\SEDC.Class07.Exercises.pdb
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\obj\Debug\net6.0\SEDC.Class07.Exercises.csproj.AssemblyReference.cache
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\obj\Debug\net6.0\SEDC.Class07.Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\obj\Debug\net6.0\SEDC.Class07.Exercises.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\obj\Debug\net6.0\SEDC.Class07.Exercises.AssemblyInfo.cs
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\obj\Debug\net6.0\SEDC.Class07.Exercises.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\obj\Debug\net6.0\SEDC.Class07.Exercises.dll
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\obj\Debug\net6.0\refint\SEDC.Class07.Exercises.dll
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\obj\Debug\net6.0\SEDC.Class07.Exercises.pdb
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\obj\Debug\net6.0\SEDC.Class07.Exercises.genruntimeconfig.cache
+C:\Users\code\Desktop\Anes Class07\SEDC.Class07\SEDC.Class07.Exercises\obj\Debug\net6.0\ref\SEDC.Class07.Exercises.dll
